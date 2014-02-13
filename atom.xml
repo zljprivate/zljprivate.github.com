@@ -4,7 +4,7 @@
   <title><![CDATA[张刘剑的博客]]></title>
   <link href="http://zljprivate.github.io/atom.xml" rel="self"/>
   <link href="http://zljprivate.github.io/"/>
-  <updated>2014-02-13T19:40:25+08:00</updated>
+  <updated>2014-02-13T20:16:27+08:00</updated>
   <id>http://zljprivate.github.io/</id>
   <author>
     <name><![CDATA[张刘剑]]></name>
@@ -36,7 +36,9 @@
     <link href="http://zljprivate.github.io/blog/2014/02/13/new-post/"/>
     <updated>2014-02-13T18:53:14+08:00</updated>
     <id>http://zljprivate.github.io/blog/2014/02/13/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>qwq</p>
+
+<p>hello photo</p>
 ]]></content>
   </entry>
   
