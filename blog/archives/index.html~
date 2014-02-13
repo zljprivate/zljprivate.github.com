@@ -36,9 +36,9 @@
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/github/">张刘剑的博客</a></h1>
+  <h1><a href="/github/">My Octopress Blog</a></h1>
   
-    <h2>张刘剑的博客</h2>
+    <h2>A blogging framework for hackers.</h2>
   
 </hgroup>
 
